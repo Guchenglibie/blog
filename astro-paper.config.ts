@@ -3,8 +3,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://blog.yeyuxiao.top",
-    title: "我的博客",
-    description: "记录一些随笔和想法",
+    title: "叶雨潇的博客",
+    description: "一个普通人的碎碎念",
     author: "叶雨潇",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
